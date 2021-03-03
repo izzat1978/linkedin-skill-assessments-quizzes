@@ -1,25 +1,25 @@
 ## Microsoft Outlook
 
 #### 1. What can you set a reminder for in Outlook?
-- [ ] all of these answers
+- [x] all of these answers
 - [ ] contacts
 - [ ] email messages
 - [ ] appointments and meetings
 
 #### 2. What is the default permission that other people in your organization have to your calendar?
-- [ ] none of these answers
+- [X] none of these answers
 - [ ] They can edit.
 - [ ] They can view all details.
 - [ ] They can view titles and locations.
 
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 - [ ] Click New Items > New Appointment.
-- [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
+- [x] Click Calendar > New Meeting, and then copy and paste information as needed.
 - [ ] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
-- [ ]  all of these answers
+- [x]  all of these answers
 - [ ] Archive messages you are done with.
 - [ ] Save and then remove large attachments from messages
 - [ ] Sort by size and then delete large messages.
@@ -32,11 +32,11 @@ C. Read receipts are expensive, so some organizations turn them off.
 ```
 - [ ] A and C
 - [ ] B and C
-- [ ] A and B
+- [x] A and B
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
-- [ ] Bcc
+- [x] Bcc
 - [ ] to
 - [ ] cc
 - [ ] From
@@ -45,23 +45,23 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] to Diane and Joey
 - [ ] to Diane and bcc Joey
 - [ ] to Joey and bcc Diane
-- [ ] to Diane and cc Joey
+- [x] to Diane and cc Joey
 
 #### 8. Which choice is not an attachment?
 - [ ] a PDF document included with an email
 - [ ] a Word document included with an email
 - [ ] (Â) a calendar item included with an email
-- [ ] a hyperlink included in an email
+- [x] a hyperlink included in an email
 
 #### 9. You can use a___to indicate that a message requires further action and a__to organize the message.
 - [ ] folder; category
-- [ ] flag; tag
+- [x] flag; tag
 - [ ] category; flag
 - [ ] flag; category
 
 #### 10. You create a task and assign it to Nalia. Nalia reviews the request and declines the assignment. Where is the task now, and who is the owner?
 - [ ] The task is nowhere, and no one is the owner.
-- [ ] The task is in your task list, and you are the owner.
+- [x] The task is in your task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and Nalia is the owner until she reassigns it to you.
 
