@@ -17,7 +17,7 @@ Can view when I'm busy. https://support.microsoft.com/en-us/office/share-an-outl
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 - [ ] Click New Items > New Appointment.
 - [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
-- [ ] with the email open, click Meeting on the Home ribbon or Message tab.
+- [x] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
@@ -34,7 +34,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 ```
 - [ ] A and C
 - [ ] B and C
-- [ ] A and B
+- [x] A and B
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
@@ -57,13 +57,13 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 9. You can use a___to indicate that a message requires further action and a__to organize the message.
 - [ ] folder; category
-- [ ] flag; tag
+- [x] flag; tag
 - [ ] category; flag
 - [ ] flag; category
 
 #### 10. You create a task and assign it to Nalia. Nalia reviews the request and declines the assignment. Where is the task now, and who is the owner?
 - [ ] The task is nowhere, and no one is the owner.
-- [ ] The task is in your task list, and you are the owner.
+- [x] The task is in your task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and Nalia is the owner until she reassigns it to you.
 
@@ -71,11 +71,11 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] if your attendance is mandatory
 - [ ] ifthe meeting is high or low priority
 - [ ] the amount of time you have between this meeting and your next event
-- [ ] if the meeting is adjacent to another event in your calendar
+- [x] if the meeting is adjacent to another event in your calendar
 
 #### 12. What appears on your screen whenever a new email arrives?
 - [ ] an emoji
-- [ ] an alert
+- [x] an alert
 - [ ] a notice
 - [ ] a bell icon
 
@@ -84,19 +84,19 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Review your folders to determine the age of messages that should auto archive in each folder. Set the most frequent value as the AutoArchive default
 - [ ] For each folder, determine whether aged items should be deleted or archived
 - [ ] Set individual settings for folders that should be archived, but not using the default settings
-- [ ] All of these answers
+- [x] All of these answers
 
 #### 14. Removing redundant messages can be completed by utilizing what Outlook features?
 
 - [ ] Filter
 - [ ] Junk Mail
 - [ ] The Delete Key
-- [ ] Clean Up Conversation
+- [x] Clean Up Conversation
 
 #### 15. You have sent several emails to a customer and have not received a response. What option do you set to know whether the customer receives your messages?
 
 - [ ] Delivery receipt
-- [ ] All of these answers
+- [x] All of these answers
 - [ ] Read receipt
 - [ ] Tracking
 
